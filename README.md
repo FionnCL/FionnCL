@@ -15,5 +15,5 @@ let musicTaste = [
   "hip-hop"
 ]
 
-const email = "[camacholenihanfionn@gmail.com](mailto:camacholenihanfionn@gmail.com);
+const email = "camacholenihanfionn@gmail.com";
 ```
