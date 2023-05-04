@@ -5,7 +5,7 @@ let education = {
 }
 
 let job = {
-  "workPlace": "Trinity College Dublin",
+  "location": "Trinity College Dublin",
   "role": "Software Developer"
 }
 
