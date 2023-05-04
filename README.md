@@ -1,12 +1,12 @@
 ```
 let education = {
-  college: "Trinity College Dublin",
-  course: "Computer Science and Linguistics"
+  "college": "Trinity College Dublin",
+  "course": "Computer Science and Linguistics"
 }
 
 let job = {
-  workPlace: "Trinity College Dublin",
-  role: "Software Developer"
+  "workPlace": "Trinity College Dublin",
+  "role": "Software Developer"
 }
 
 let musicTaste = [
