@@ -1,6 +1,8 @@
 # Some Stats 😎
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FionnCL&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+(I'm a sucker for gruvbox)
 
 # About Me
 
