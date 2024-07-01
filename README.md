@@ -1,6 +1,6 @@
 # Some Stats 😎
 
-[![FionnCL's GitHub stats](https://github-readme-stats.vercel.app/api?username=FionnCL&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![FionnCL's GitHub stats](https://github-readme-stats.vercel.app/api?username=FionnCL&show_icons=true&theme=gruvbox&hide_title=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 (I'm a sucker for gruvbox)
 
