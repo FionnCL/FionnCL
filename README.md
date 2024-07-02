@@ -8,8 +8,6 @@ Hey! My name is Fionn Camacho Lenihan🇲🇽🇮🇪. I am currently in my fina
 
 I quite like programming tbh... Maybe I'll make a career out of it some day 🤔.
 
-I have an interest in any field of Softare Engineering where one must apply themself.
-
 # Portfolio
 
 I have a [portfolio website](https://fionncl.web.app/) btw, check it out for more information on past work and projects I've taken part in.
