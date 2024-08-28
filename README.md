@@ -6,7 +6,7 @@
 
 Hey! My name is Fionn Camacho Lenihan🇲🇽🇮🇪. I am currently in my final year at Trinity College Dublin.
 
-I quite like programming tbh... Maybe I'll make a career out of it some day 🤔.
+I like programming.
 
 # Portfolio
 
