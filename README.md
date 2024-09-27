@@ -4,7 +4,7 @@
 
 # About Me
 
-Hey! My name is Fionn Camacho Lenihan🇲🇽🇮🇪. I am currently in my final year at Trinity College Dublin.
+Hey! My name is Fionn🇲🇽🇮🇪. I am currently in my final year at Trinity College Dublin.
 
 I like programming.
 
